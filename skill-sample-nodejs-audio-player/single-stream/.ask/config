@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.07bb325c-f6c2-4bd7-95e0-2179d2a25871",
+      "was_cloned": false,
+      "merge": {
+        "skillManifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-myradio-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

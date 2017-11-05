@@ -1,0 +1,6 @@
+{
+  "DFM": "http://icecast.radiodfm.cdnvideo.ru/dfm.mp3",
+  "MFM": "http://radio.mfm.ua/online128",
+  "test2": "http://c53ba97c.ngrok.io/listen.m3u",
+  "test": "http://c53ba97c.ngrok.io/test.mp3"
+}

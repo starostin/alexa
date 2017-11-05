@@ -1,0 +1,19 @@
+.DS_Store
+#\composed by IDE
+.idea
+#/composed by IDE
+
+.vscode
+
+
+#\composed by npm i
+node_modules
+npm-debug.log*
+#/composed by npm i
+
+
+#\composed by grunt
+builds
+**/built_*
+#/composed by grunt
+/nbproject/private/
